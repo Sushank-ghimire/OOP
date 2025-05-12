@@ -14,10 +14,13 @@ A comprehensive guide to learning **C++ from scratch**. This sheet is ideal for 
 - Install [GCC](https://www.mingw-w64.org/) or use [online compilers](https://www.onlinegdb.com/online_c++_compiler)
 - Use IDEs like **VS Code**, **Code::Blocks**, **CLion**
 
-### First Program
+### Starter template
 
 ```cpp
 #include <iostream>
+#include <iomanip>
+#include <string>
+
 using namespace std;
 
 int main() {
